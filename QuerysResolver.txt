@@ -1,0 +1,8 @@
+// Q1. Listar los datos de todas las oficinas
+// Q2. Listar los envios realizados en determinada oficina con estatus "transito"
+// Q3. Listar los envios que utilizan un tipo especifico de envio
+// Q4. Listar los envios realizados por un cliente especifico en todas las oficinas
+// Q5. Listar los clientes que han realizado envios en una determinada oficina
+// Q6. Listar los envios de todas las oficinas con estatus de entregado
+// Q7. Listar los clientes y sus envios que se han remitido por el servicio terrestre considerando todas las oficinas
+// Q8. Listar los clientes y sus envios que se han remitido por el servicio express considerando una oficina en especifico
